@@ -4,7 +4,7 @@
     "pages/Login/index",
     "pages/index/index",
     "pages/table/table",
-    "pages/logs/index"
+    "pages/logs/logs"
   ],
   "window": {
     "navigationBarTitleText": "IT笔记"
