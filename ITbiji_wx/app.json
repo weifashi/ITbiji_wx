@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/loadmore/loadmore",
+    "pages/Login/index",
+    "pages/index/index",
+    "pages/table/table",
+    "pages/logs/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "IT笔记"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

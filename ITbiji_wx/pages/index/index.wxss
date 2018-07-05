@@ -1,0 +1,39 @@
+.title{
+  background: #006DAE;
+  height: 2px;
+  line-height: 2px;
+  color: #fff;
+  text-indent: 3px;
+}
+.container { 
+  height: calc(100% - 2px); 
+  display: flex; 
+  flex-direction: column; 
+  padding: 0; 
+  box-sizing: border-box; 
+  background-color: #f2f2f2;
+} 
+.nav_container{
+    border-bottom: 1px solid #ccc;  
+}
+.item{
+  line-height: 80rpx;
+  background: #eee;
+  border-top: 1px solid #ccc;
+}
+
+.proj_list{
+  padding-left:10px;
+}
+.file_list{
+  padding-left:30px;
+}
+.file2_list{
+  padding-left:50px; 
+}
+.emptyHint{
+  text-align: center;
+}
+.item_click{
+  background: #ccddf3 ;
+}
